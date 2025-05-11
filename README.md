@@ -1,4 +1,3 @@
-# neurocity-locations
 # 🧬 Infinity Cyberpunk: NeuroCity
 
 > *"You’re looking into the Network. And then you realize: it’s looking into you."*  
