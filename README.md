@@ -79,10 +79,7 @@ The Pulse is quickening.
 
 ## 🔧 Project Structure (partial)
 
-- `VR-Browser/` — Godot source code for early and alpha versions
 - `locations/` — NeuroCity world map and zone data
-  - `coils/zero_level/` — starting zone: "Zero Level" club
-- `images/`, `videos/`, `locales/` — media and text content
 - `README.md` — you are here
 
 ---
